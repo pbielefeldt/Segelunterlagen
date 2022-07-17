@@ -2,6 +2,9 @@ Aufgaben-Verteilung
 ===================
 
 
+1. Proviant
+-----------
+
 - Proviantierung zum Start
   - Einkaufsliste vorbereiten
   - Haltbarkeit (Kühlung) beachten
@@ -12,11 +15,19 @@ Aufgaben-Verteilung
   - Einkauf in Zwischenhäfen
 - [Bordapotheke](https://www.pantaenius.com/de-de/aus-der-praxis/magazin/praevention/news-beitrag/news/die-reiseapotheke-das-wichtigste-gepaeckstueck-an-bord/)
 
+
+2. Verwaltung
+-------------
+
 - Bordkasse
 - Ausgabenlimite einhalten
 - Endabrechnung
 
-- Logbuch führen
+- Logbuch führen (den Skipper erinnern)
+
+
+3. Reise-Guide
+--------------
 
 - Interessante Ausflugziele
   - Dörfer/Städte
@@ -28,6 +39,10 @@ Aufgaben-Verteilung
 - Restaurants
   - Übersicht, Wünsche der Crew beachten
   - Reservieren falls notwendig
+
+
+4. Übernachtungen
+-----------------
 
 - Liegeplätze
   - Übersicht über schöne Bojenfelder, Ankerplätze, Marinas
