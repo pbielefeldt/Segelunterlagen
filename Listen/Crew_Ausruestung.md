@@ -5,7 +5,7 @@ Ausrüstung Boot
 - Kopflampe
 - Gewebe-Tape
 - Kabelbinder (oder Klettbänder)
-- Kriechöl
+- Kriechöl/Silikonspray
 - einige Bändsel, ein paar Meter Leine
 - Ersatz-Windfäden
 - Schema-Listen für Funk, einlaminiert
@@ -19,6 +19,7 @@ Ausrüstung Boot
 - Zigarettenanzünder-USB-Adapter
 - Trockentücher
 - Zip-Beutel
+- Klebezettel (für Namensschilder etc)
 
 Vom Vercharterer
 ----------------
