@@ -22,6 +22,7 @@ Beim Ankermanöver:
 - Anker/Kette/Winsch
 - Ausguck
 
+
 ---
 
 ## 1. Proviant ##
@@ -73,3 +74,32 @@ Beim Ankermanöver:
 - Übersicht Gebühren
   - Brücken, Schleusen, …
   - Nationalparks
+
+
+---
+
+## Notrollen ##
+
+Werden ggf. bei der Crew-Einweisung festgelegt
+
+### Person über Bord ###
+- Ausguck
+- Rettungskragen überprüfen & werfen
+- Spifall klarieren
+- Badeplattform besetzen, ggf. Verbandskasten holen
+- MOB-Taste Plotter, Position merken, Logbuch, Funk besetzen
+
+### Feuer ###
+- löschen (Löschdecke, Feuerlöscher)
+- Rettungsinsel klarieren
+- Mayday absetzen
+- Gashähne zudrehen
+- Fluchttasche & Notpaket bereitmachen
+
+### Wassereinbruch ###
+- Lenzpumpe/Handpumpe bedienen
+- Leck suchen
+- Werkzeug/Abdichtmaterial bereitlegen
+- Leck abdichten
+- Funk besetzen, ggf. Mayday absetzen
+- Rettungsinsel klarieren, Fluchttasche & Notpaket bereitmachen
