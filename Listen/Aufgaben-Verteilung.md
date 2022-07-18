@@ -47,9 +47,20 @@ Beim Ankermanöver:
 - Rezepte sammeln
 - Kochplan erstellen & anpassen, Leute einteilen
 - Ordnung & Sicherheit in der Kombüse sicherstellen
- 
 
-## 3. Finanzen etc ##
+
+## 3. Bootshand ##
+
+- Abfahrtskontrolle
+  - Luken geschlossen?
+  - Seeventile geschlossen?
+- Dinghy-Check
+  - Luftdruck
+  - Paddel, Luftpumpe
+  - ~Außenbordmotor~
+  - Sicherung 
+
+## 4. Finanzen etc ##
 
 - Bordkasse
 - Ausgabenlimite einhalten
@@ -57,7 +68,7 @@ Beim Ankermanöver:
 - Logbuch führen (den Skipper erinnern)
 
 
-## 4. Reise-Guide ##
+## 5. Reise-Guide ##
 
 - Interessante Ausflugziele
   - Dörfer/Städte
@@ -74,7 +85,7 @@ Beim Ankermanöver:
   - Reservieren falls notwendig
 
 
-## 5. Übernachtungen ##
+## 6. Übernachtungen ##
 
 - Liegeplätze
   - Übersicht über schöne Bojenfelder, Ankerplätze, Marinas
@@ -95,7 +106,7 @@ Werden ggf. bei der Crew-Einweisung festgelegt
 
 ### Person über Bord ###
 - Ausguck
-- Rettungskragen überprüfen & werfen
+- Rettungskragen überprüfen & werfen, EPIRB aktivieren
 - Spifall klarieren
 - Badeplattform besetzen, ggf. Verbandskasten holen
 - MOB-Taste Plotter, Position merken, Logbuch, Funk besetzen
