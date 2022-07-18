@@ -38,7 +38,18 @@ Beim Ankermanöver:
 - [Bordapotheke](https://www.pantaenius.com/de-de/aus-der-praxis/magazin/praevention/news-beitrag/news/die-reiseapotheke-das-wichtigste-gepaeckstueck-an-bord/)
 
 
-## 2. Verwaltung ##
+## 2. Smutje ##
+
+- Persönliche Interessen beim Essen abfragen
+  - Mag-Ich-Nicht
+  - Allergien
+  - vegetarisch, vegan etc.
+- Rezepte sammeln
+- Kochplan erstellen & anpassen, Leute einteilen
+- Ordnung & Sicherheit in der Kombüse sicherstellen
+ 
+
+## 3. Finanzen etc ##
 
 - Bordkasse
 - Ausgabenlimite einhalten
@@ -46,7 +57,7 @@ Beim Ankermanöver:
 - Logbuch führen (den Skipper erinnern)
 
 
-## 3. Reise-Guide ##
+## 4. Reise-Guide ##
 
 - Interessante Ausflugziele
   - Dörfer/Städte
@@ -63,7 +74,7 @@ Beim Ankermanöver:
   - Reservieren falls notwendig
 
 
-## 4. Übernachtungen ##
+## 5. Übernachtungen ##
 
 - Liegeplätze
   - Übersicht über schöne Bojenfelder, Ankerplätze, Marinas
