@@ -42,7 +42,6 @@ Beim Ankermanöver:
 - Bordkasse
 - Ausgabenlimite einhalten
 - Endabrechnung
-
 - Logbuch führen (den Skipper erinnern)
 
 
@@ -54,7 +53,10 @@ Beim Ankermanöver:
   - Landausflüge (Besichtigungen, Wanderungen, Radverleih …)
   - Badebuchten
   - Schöne Küsten
-- z.B. bei [SeaMe](https://www.seame.com/de)
+- z.B. bei
+  - [SeaMe](https://www.seame.com/de)
+  - [PCO](https://www.sailingmap.de/revier/kroatien?page=0)
+  - [OceanGuide](https://ocean.guide/toernfuehrer/Kroatien)
 - Restaurants
   - Übersicht, Wünsche der Crew beachten
   - Reservieren falls notwendig
