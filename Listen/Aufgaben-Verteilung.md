@@ -1,9 +1,30 @@
-Aufgaben-Verteilung
-===================
+# Aufgaben-Verteilung #
 
+Während des Segelns sind folgende Positionen zu besetzen:
+- Ruder, Schiffsführung
+- Navigation/Routing/Wetter
+- Großschot
+- Vorschot
 
-1. Proviant
------------
+Beim Ab- & Anlegen in der Marina:
+- Ruder, Maschine
+- Kommunikation, Funk
+- Vorleine, Muring
+- Achterleine Luv
+- Achterleine Lee
+- Fender/Abhalten backbord
+- Fender/Abhalten steuerbord
+- Kugelfender
+
+Beim Ankermanöver:
+- Ruder, Maschine
+- Echolot
+- Anker/Kette/Winsch
+- Ausguck
+
+---
+
+## 1. Proviant ##
 
 - Proviantierung zum Start
   - Einkaufsliste vorbereiten
@@ -16,8 +37,7 @@ Aufgaben-Verteilung
 - [Bordapotheke](https://www.pantaenius.com/de-de/aus-der-praxis/magazin/praevention/news-beitrag/news/die-reiseapotheke-das-wichtigste-gepaeckstueck-an-bord/)
 
 
-2. Verwaltung
--------------
+## 2. Verwaltung ##
 
 - Bordkasse
 - Ausgabenlimite einhalten
@@ -26,8 +46,7 @@ Aufgaben-Verteilung
 - Logbuch führen (den Skipper erinnern)
 
 
-3. Reise-Guide
---------------
+## 3. Reise-Guide ##
 
 - Interessante Ausflugziele
   - Dörfer/Städte
@@ -41,8 +60,7 @@ Aufgaben-Verteilung
   - Reservieren falls notwendig
 
 
-4. Übernachtungen
------------------
+## 4. Übernachtungen ##
 
 - Liegeplätze
   - Übersicht über schöne Bojenfelder, Ankerplätze, Marinas
